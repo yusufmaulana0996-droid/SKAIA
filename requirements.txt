@@ -1,4 +1,4 @@
---upgrade pip
+pip install --upgrade pip
 streamlit==1.31.1
 google-generativeai==0.7.2
 chromadb==0.4.24
