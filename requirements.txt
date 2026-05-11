@@ -3,6 +3,7 @@ google-generativeai
 openai
 chromadb
 pypdf
+pypdf2
 python-dotenv
 langchain
 langchain-community
